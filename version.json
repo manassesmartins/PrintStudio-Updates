@@ -1,5 +1,5 @@
 {
   "version": "2.2.0",
-  "changelog": "Adicionar tamanhos e tipos de papel na impressão",
+  "changelog": "ci: build e publicação do app Linux",
   "downloadUrl": "https://raw.githubusercontent.com/manassesmartins/PrintStudio-Updates/main/app-debug.apk"
 }
