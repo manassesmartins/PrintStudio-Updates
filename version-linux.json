@@ -1,0 +1,6 @@
+{
+  "version": "2.2.0",
+  "changelog": "Versão Linux nativa: AppImage e .deb, impressão via CUPS, e-mail padrão e atualizações pelo GitHub.",
+  "downloadUrl": "https://github.com/manassesmartins/PrintStudio-Updates/releases/download/linux-v2.2.0/PrintStudio-Linux-2.2.0.AppImage",
+  "downloadDebUrl": "https://github.com/manassesmartins/PrintStudio-Updates/releases/download/linux-v2.2.0/PrintStudio-Linux-2.2.0.deb"
+}
