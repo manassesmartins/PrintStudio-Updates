@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
-  "changelog": "Seleção de páginas, contornos visíveis e textos genéricos para qualquer impressora",
+  "version": "2.1.1",
+  "changelog": "Estimativa acompanha a seleção de páginas",
   "downloadUrl": "https://raw.githubusercontent.com/manassesmartins/PrintStudio-Updates/main/app-debug.apk"
 }
